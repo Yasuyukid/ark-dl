@@ -1,6 +1,6 @@
 # Arknights Downloader
 
-A tool for downloading **Arknights** assets quickly and easily.
+A tool for downloading **Arknights** assets quickly and easily. This is meant to be used with [aelurum](https://github.com/aelurum)'s [ArknightsStudio](https://github.com/aelurum/AssetStudio/tree/ArknightsStudio).
 
 ## Install requirements
 
@@ -52,3 +52,4 @@ All available options
 ## Acknowledgement
 
 - [ashleney](https://github.com/ashleney)'s [ArkPRTS](https://github.com/ashleney/ArkPRTS).
+- [aelurum](https://github.com/aelurum)'s [ArknightsStudio](https://github.com/aelurum/AssetStudio/tree/ArknightsStudio).
